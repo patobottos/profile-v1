@@ -76,14 +76,23 @@ const Footer = () => {
         >
           Poppins
         </a>
-        , and{" "}
+        ,
         <a
           className="font-medium text-title-gray hover:text-light-taupe  focus-visible:text-cream"
-          href="https://fonts.google.com/specimen/Raleway"
+          href="https://fonts.google.com/specimen/Open+Sans"
           target="_blank"
           rel="noreferrer"
         >
-          Raleway
+          Open Sans
+        </a>
+        , and{" "}
+        <a
+          className="font-medium text-title-gray hover:text-light-taupe  focus-visible:text-cream"
+          href="https://fonts.google.com/specimen/EB+Garamond"
+          target="_blank"
+          rel="noreferrer"
+        >
+          EB Garamond
         </a>{" "}
         typefaces.
       </p>
