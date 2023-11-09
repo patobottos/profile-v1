@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 export default function Home() {
   return (
     <div>
-      <div className="mb-auto mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-24 lg:py-0 flex flex-col lg:flex-row lg:scroll-smooth">
+      <div className="mb-auto mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-24 lg:py-0 flex flex-col lg:flex-row">
         <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:justify-between lg:py-24 lg:h-[800px]">
           <HeroSection />
         </header>
