@@ -61,11 +61,11 @@ const Footer = () => {
         . Texts are set in the{" "}
         <a
           className="font-medium text-title-gray hover:text-light-taupe  focus-visible:text-cream"
-          href="https://rsms.me/inter/"
+          href="https://fonts.google.com/specimen/Roboto"
           target="_blank"
           rel="noreferrer"
         >
-          Inter
+          Roboto
         </a>
         ,{" "}
         <a

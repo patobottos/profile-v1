@@ -5,7 +5,7 @@ import SocialMedia from "./SocialMedia";
 const HeroSection = () => {
   return (
     <section id="home" className="flex flex-col">
-      <h1 className="text-5xl font-bold tracking-wide text-title-gray sm:text-5xl mb-4 font-garamond">
+      <h1 className="text-5xl font-bold tracking-wide text-title-gray sm:text-5xl mb-4 font-libre">
         <a href="/">Pato Bottos</a>
       </h1>
       <h2 className="font-opensans mt-3 text-lg font-medium tracking-tight text-title-gray sm:text-xl">

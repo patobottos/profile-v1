@@ -8,11 +8,11 @@ import Footer from "./components/Footer";
 export default function Home() {
   return (
     <div>
-      <div className="mb-auto mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-24 lg:py-0 flex flex-col lg:flex-row">
+      <div className="mb-auto mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-8 md:py-12 lg:px-24 lg:py-0 flex flex-col lg:flex-row">
         <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:justify-between lg:py-24 lg:h-[800px]">
           <HeroSection />
         </header>
-        <main className="pt-24 lg:w-1/2 lg:py-24 flex flex-col justify-between">
+        <main className="pt-24 lg:w-1/2 lg:pb-12 flex flex-col justify-between">
           <AboutSection />
           <ExperienceSection />
           <ProjectsSection />

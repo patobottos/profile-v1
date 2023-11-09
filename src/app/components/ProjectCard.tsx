@@ -23,7 +23,7 @@ function ProjectCard({
       <div className="flex max-w-[60%] sm:w-1/4 mt-4 sm:mt-0">
         <picture>
           <img
-            className="border-2 border-slate-blue rounded-lg min-h-[30%]"
+            className="border-2 border-slate-blue rounded-lg min-h-max w-7/8"
             src={image_url}
             alt=""
           />
@@ -39,11 +39,11 @@ function ProjectCard({
             aria-label={project_title}
           >
             <span>
-              {project_title} · {company}
+              {project_title} {company}
             </span>
             <span className="ml-4">{"\u2197"}</span>
           </a>
-          <p className="mt-2 font-inter leading-normal text-light-blue text-sm tracking-normal">
+          <p className="mt-2 font-roboto leading-normal text-light-blue text-sm tracking-normal">
             {description}
           </p>
           <PillGrill techstack={techstack} />

@@ -9,8 +9,13 @@ const ContactSection = () => {
       className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24"
       aria-label="Contact"
     >
+      <div className="sticky top-0 bg-royal/75 backdrop-blur z-20 mb-4 w-screen py-5 md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+        <h2 className="text-sm font-bold uppercase tracking-widest text-cream">
+          Contact
+        </h2>
+      </div>
       <div className="flex items-center">
-        <ul className="ml-1 mt-8 flex items-center p-2">
+        <ul className="mt-6 flex items-center p-1">
           <li className="mr-10">
             <a
               className="block"
@@ -21,7 +26,6 @@ const ContactSection = () => {
               <FaLinkedinIn className="fill-orange hover:fill-orange/70 h-6 w-6" />
             </a>
           </li>
-
           <li className="mr-10">
             <a
               className="block"
