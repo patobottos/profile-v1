@@ -5,16 +5,16 @@ FaGithub;
 
 const SocialMedia = () => {
   return (
-    <div className="lg:sticky lg:top-[100vh]">
+    <div className="lg:sticky lg:top-[100vh] ">
       <ul className="mt-8 p-2 flex items-center">
         <li className="mr-5">
           <a
-            className="block"
+            className="block "
             href="https://github.com/patobottos"
             target="_blank"
             rel="noreferrer"
           >
-            <FaGithub className="fill-light-gray hover:fill-title-gray h-6 w-6 " />
+            <FaGithub className="fill-orange hover:fill-orange/70 h-6 w-6 " />
           </a>
         </li>
         <li className="mr-5">
@@ -24,7 +24,7 @@ const SocialMedia = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <FaLinkedinIn className="fill-light-gray hover:fill-title-gray h-6 w-6 " />
+            <FaLinkedinIn className="fill-orange hover:fill-orange/70 h-6 w-6 " />
           </a>
         </li>
         <li className="mr-5">
@@ -34,7 +34,7 @@ const SocialMedia = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <FaFigma className="fill-light-gray hover:fill-title-gray h-6 w-6" />
+            <FaFigma className="fill-orange hover:fill-orange/70 h-6 w-6" />
           </a>
         </li>
         <li className="mr-5">
@@ -44,7 +44,7 @@ const SocialMedia = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <MdOutlineAlternateEmail className="fill-light-gray hover:fill-title-gray h-6 w-6" />
+            <MdOutlineAlternateEmail className="fill-orange hover:fill-orange/70  h-6 w-6" />
           </a>
         </li>
         <li className="mr-5">
@@ -54,7 +54,7 @@ const SocialMedia = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <FaWhatsapp className="fill-light-gray hover:fill-title-gray h-6 w-6" />
+            <FaWhatsapp className="fill-orange hover:fill-orange/70  h-6 w-6" />
           </a>
         </li>
       </ul>

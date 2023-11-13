@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="max-w-md pb-16 text-sm text-pale-lavender sm:pb-0 p-1 bottom-0">
+    <footer className="max-w-lg pb-16 text-sm text-pale-lavender sm:pb-0 p-1 bottom-0">
       <p>
         Designed by Pato Bottos drawing inspiration from{" "}
         <a
@@ -13,7 +13,16 @@ const Footer = () => {
         >
           Brittany Chiang&#39;s
         </a>{" "}
-        website. Designed in{" "}
+        website and{" "}
+        <a
+          className="font-medium text-title-gray hover:text-light-taupe  focus-visible:text-cream"
+          href="https://hosnaqasmei.com/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Hosna Qasmei&#39;s
+        </a>{" "}
+        working flow. Designed in{" "}
         <a
           className="font-medium text-title-gray hover:text-light-taupe  focus-visible:text-cream"
           href="https://www.figma.com/"

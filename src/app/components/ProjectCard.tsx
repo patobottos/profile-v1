@@ -19,7 +19,7 @@ function ProjectCard({
   techstack,
 }: ProjectProps) {
   return (
-    <div className="flex flex-col-reverse mb-12 sm:flex-row">
+    <div className="flex flex-col-reverse sm:flex-row mb-12 p-4 hover:bg-gray-dark hover:opacity-90 hover:rounded-2xl">
       <div className="flex max-w-[60%] sm:w-1/4 mt-4 sm:mt-0">
         <picture>
           <img

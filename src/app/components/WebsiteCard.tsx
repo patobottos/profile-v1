@@ -1,11 +1,11 @@
 import React from "react";
-import PillGrill from "./PillGrill";
 
 type WebsiteProps = {
   image_url: string;
   project_url: string;
   project_title: string;
   description: string;
+  theme: string;
 };
 
 function WebsiteCard({
@@ -13,6 +13,7 @@ function WebsiteCard({
   project_url,
   project_title,
   description,
+  theme,
 }: WebsiteProps) {
   return (
     <div className="p-6 sm:p-4 flex flex-col hover:bg-gray-dark hover:opacity-90 hover:rounded-2xl">
@@ -28,7 +29,7 @@ function WebsiteCard({
         </picture>
       </div>
       <div className="flex flex-col mt-4">
-        <div className="flex flex-col text-start font-opensans text-base sm:text-ellipsis lg:text-lg text-title-gray">
+        <div className="flex flex-col text-start font-opensans text-sm sm:text-ellipsis lg:text-lg text-title-gray">
           <a
             className=""
             href={project_url}
@@ -37,10 +38,13 @@ function WebsiteCard({
             aria-label={project_title}
           >
             <span>{project_title}</span>
-            <span className="ml-4">{"\u2197"}</span>
+            <span className="ml-2">{"\u2197"}</span>
           </a>
           <p className="mt-2 font-roboto leading-normal text-light-blue text-xs md:text-sm lg:text-base tracking-normal">
             {description}
+          </p>
+          <p className="mt-2 text-green tracking-wide md:text-sm lg:text-base">
+            <span className="font-semibold">Theme: </span> {theme}
           </p>
         </div>
       </div>

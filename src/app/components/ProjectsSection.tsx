@@ -37,7 +37,7 @@ const ProjectsSection = () => {
         image_url="/portfolio.png"
         project_url="https://patobottos.vercel.app/"
         company=""
-        description="Personal portfolio webpage that showcases my skills and experience in four sections: About, Experience, Projects, and Contact. It was designed in Figma and coded using Visual Studio Code, Next.js, and Tailwind CSS, ensuring an appealing and responsive display of my work. Hosted on Vercel, it's easily accessible for those interested in exploring my portfolio."
+        description="Personal portfolio webpage that showcases my skills and experience in four sections: About, Experience, Projects, and Contact. Taking inspiration from Hosna Qasmei's workflow and tech stack, I designed it using Figma and coded it with Visual Studio Code, Next.js, and Tailwind CSS. This ensures a visually appealing and responsive display of my work. Hosted on Vercel, my portfolio is easily accessible for those interested in exploring my projects."
         techstack={[
           "Figma",
           "Next.js",
@@ -50,7 +50,7 @@ const ProjectsSection = () => {
       <ProjectCard
         project_title="Distinc WordPress Websites"
         image_url="/pbaudiovisual.png"
-        project_url="https://pbaudiovisual.wordpress.com"
+        project_url="/pbaudiovisual"
         company="· pbaudiovisual"
         description="Design and development of more than 10 distinct WordPress websites, each one tailored to meet the needs and branding of clients and organizations. My work emphasizes responsive and user-friendly designs, content management with SEO optimization, theme customization, and seamless plugin integration."
         techstack={["WordPress", "UI/UX Design", "SEO", "CSS", "HTML"]}
