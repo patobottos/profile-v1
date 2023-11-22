@@ -6,6 +6,7 @@ Welcome to my portfolio repository on GitHub! This repository serves as a showca
 
 - [About Me](#about)
 - [This Project](#project)
+- [Getting Started](#firststeps)
 - [Contact](#contact)
 
 ## About Me
@@ -29,6 +30,32 @@ Personal portfolio webpage. that showcases my skills and experience, in four sec
 - Next.js
 - Tailwind CSS
 - Vercel
+
+## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+To run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+And then open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
 
 ## Contact
 
