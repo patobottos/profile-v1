@@ -11,41 +11,35 @@ const AboutSection = () => {
       <SectionTitle title="About" />
       <div>
         <div className="text-white">
-          Embarking on a digital journey over a decade ago, I discovered a
-          passion for crafting immersive online experiences. From tinkering with
-          personal blogs to leading impactful projects for non-profits and
-          startups, I&#39;ve honed my skills in ReactJS, JavaScript, and web
-          technologies.
+          Embarking on a digital journey over a decade ago, I&#39;ve crafted
+          engaging online experiences, refining my skills in ReactJS,
+          JavaScript, and web technologies. As a React Front End Developer at IT
+          Academy, I bring digital experiences to life, such as the timeless Nim
+          game. Before this role, spanning 10 years, I worked as a WordPress Web
+          Content Manager, contributing to diverse web projects, including
+          personal blogs, entrepreneurs&#39; websites, and non-profit platforms.
           <br />
           <br />
-          Currently serving as a React Front End Developer at IT Academy, I
-          bring digital experiences to life, such as the timeless Nim game.
-          Prior to this, over a span of 10 years, I served as a web content
-          manager, contributing to diverse web projects, including personal
-          blogs, entrepreneurs&#39; websites, and non-profit platforms,
-          utilizing WordPress.
-          <br />
-          <br />
-          Beyond coding, I&#39;ve co-directed an indie film festival, attracted
-          2000+ cinephiles, and spearheaded public service improvements.
+          Beyond coding, I co-directed an indie film festival, attracting 2000+
+          cinephiles, and led initiatives to enhance various public services.
           Recently, I successfully completed a rigorous React Front End Web
-          Developer Coding Bootcamp at IT Academy at Barcelona, ensuring that I
+          Developer Coding Bootcamp at IT Academy in Barcelona, ensuring that I
           stay at the forefront of web development.
           <br />
           <br />
           Proficient in Catalan, Spanish, English, and French, I am passionate
-          about languages and their ability to connect people.
+          about languages and their power to connect people.
           <br />
           <br />
-          I believe in the power of a group of people making substantial changes
-          through cooperative work, striving to achieve objectives, while always
-          prioritizing mental health and the environment.
+          I believe in the transformative potential of groups of people working
+          cooperatively with a shared objective, while consistently prioritizing
+          mental health and the environment.
           <br />
           <br />
-          Away from screens, I send global and extense voice messages, play
+          Away from screens, I send extensive global voice messages, play
           Rummikub with family, tend rooftop radishes, run on Sunday mornings,
-          enjoy horror movies, engage in school association, and participate in
-          a Poblenou cohousing project.
+          enjoy horror movies, engage in a school association, and participate
+          in a Poblenou cohousing project.
           <br />
           <br />
           Welcome to my portfolio! 👋 🚀
