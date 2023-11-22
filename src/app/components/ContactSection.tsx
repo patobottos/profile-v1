@@ -20,7 +20,7 @@ const ContactSection = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <FaLinkedinIn className="fill-orange hover:fill-orange/70 h-6 w-6" />
+              <FaLinkedinIn className="fill-orange hover:fill-light-blue h-6 w-6" />
             </a>
           </li>
           <li className="mr-10">
@@ -30,7 +30,7 @@ const ContactSection = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <MdOutlineAlternateEmail className="fill-orange hover:fill-orange/70 h-6 w-6" />
+              <MdOutlineAlternateEmail className="fill-orange hover:fill-light-blue h-6 w-6" />
             </a>
           </li>
           <li className="mr-12">
@@ -40,7 +40,7 @@ const ContactSection = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <FaWhatsapp className="fill-orange hover:fill-orange/70 h-6 w-6" />
+              <FaWhatsapp className="fill-orange hover:fill-light-blue h-6 w-6" />
             </a>
           </li>
         </ul>

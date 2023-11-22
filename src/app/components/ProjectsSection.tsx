@@ -14,7 +14,7 @@ const ProjectsSection = () => {
       <ProjectCard
         project_title="Nim Strategy Game App"
         image_url="/nim1.png"
-        project_url="https://patobottos.github.io/playnimgame/"
+        project_url="https://playnim.vercel.app/"
         company="· IT Academy"
         description="Online Nim strategy game built with React, styled components, and JavaScript. Seamlessly integrated with Firebase for real-time interactions, dynamic content updates, and a live ranking, enhancing player engagement and competition."
         techstack={[
