@@ -19,7 +19,7 @@ const ProjectsSection = () => {
         description="Online Nim strategy game built with React, styled components, and JavaScript. Seamlessly integrated with Firebase for real-time interactions, dynamic content updates, and a live ranking, enhancing player engagement and competition."
         techstack={[
           "React",
-          "Styled Components",
+          "Styled Components",cle
           "JavaScript",
           "HTML5",
           "CSS3",
