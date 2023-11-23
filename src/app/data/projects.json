@@ -1,0 +1,45 @@
+[
+  {
+    "id": 3,
+    "project_title": "Nim Strategy Game App",
+    "image_url": "/nim1.png",
+    "project_url": "https://playnim.vercel.app/",
+    "company": "· IT Academy",
+    "description": "Online Nim strategy game built with React, styled components, and JavaScript. Seamlessly integrated with Firebase for real-time interactions, dynamic content updates, and a live ranking, enhancing player engagement and competition.",
+    "techstack": [
+      "React",
+      "Styled Components",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Firebase",
+      "Git",
+      "Visual Studio Code"
+    ]
+  },
+  {
+    "id": 2,
+    "project_title": "Personal Portfolio Web",
+    "image_url": "/portfolio.png",
+    "project_url": "https://patobottos.vercel.app/",
+    "company": "",
+    "description": "Personal portfolio webpage that showcases my skills and experience in four sections: About, Experience, Projects, and Contact. Taking inspiration from Hosna Qasmei's workflow and tech stack, I designed it using Figma and coded it with Visual Studio Code, Next.js, and Tailwind CSS. This ensures a visually appealing and responsive display of my work. Hosted on Vercel, my portfolio is easily accessible for those interested in exploring my projects.",
+    "techstack": [
+      "Figma",
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "HTML",
+      "Vercel"
+    ]
+  },
+  {
+    "id": 1,
+    "project_title": "Distinc WordPress Websites",
+    "image_url": "/pbaudiovisual.png",
+    "project_url": "/pbaudiovisual",
+    "company": "· pbaudiovisual",
+    "description": "Design and development of more than 10 distinct WordPress websites, each one tailored to meet the needs and branding of clients and organizations. My work emphasizes responsive and user-friendly designs, content management with SEO optimization, theme customization, and seamless plugin integration.",
+    "techstack": ["WordPress", "UI/UX Design", "SEO", "CSS", "HTML"]
+  }
+]

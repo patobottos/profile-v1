@@ -2,18 +2,19 @@ import React from "react";
 import PillGrill from "./PillGrill";
 
 type ProjectProps = {
+  id: number;
+  project_title: string;
   image_url: string;
   project_url: string;
-  project_title: string;
   company: string;
   description: string;
   techstack: string[];
 };
 
 function ProjectCard({
+  project_title,
   image_url,
   project_url,
-  project_title,
   company,
   description,
   techstack,

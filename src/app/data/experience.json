@@ -1,0 +1,36 @@
+[
+  {
+    "id": 3,
+    "year": "2022 - Present",
+    "job_title": "Front End Developer",
+    "company_name": "IT Academy",
+    "company_url": "https://www.barcelonactiva.cat/en/itacademy-business",
+    "job_description": "Create dynamic web applications, from initial design to coding and optimization, ensuring top-notch user experiences.",
+    "job_techstack": ["React", "Firebase", "JavaScript", "HTML5", "CSS3", "Git"]
+  },
+  {
+    "id": 2,
+    "year": "2018 - Present",
+    "job_title": "Wordpress Web Manager",
+    "company_name": "CRAC Association",
+    "company_url": "https://cracpatrimoni.com/",
+    "job_description": "Oversight of the main page, the professional directory and Intranet on the association's WordPress website, communication with members through various channels, production and distribution of weekly newsletters via Mailchimp, and maintenance of the association's database using FileMaker.",
+    "job_techstack": [
+      "WordPress",
+      "Elementor",
+      "HTML",
+      "CSS",
+      "Mailchimp",
+      "FileMaker"
+    ]
+  },
+  {
+    "id": 1,
+    "year": "2013 - 2018",
+    "job_title": "Wordpress Web Developer",
+    "company_name": "pbaudiovisual",
+    "company_url": "https://pbaudiovisual.wordpress.com",
+    "job_description": "Design and develop custom WordPress platforms for clients, resulting in responsive, user-friendly websites. Performance enhancements were achieved through strategic optimization, leading to improved loading times and SEO rankings.",
+    "job_techstack": ["WordPress", "Elementor", "UI/UX", "HTML", "CSS"]
+  }
+]

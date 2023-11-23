@@ -2,6 +2,7 @@ import React from "react";
 import PillGrill from "./PillGrill";
 
 type ExperienceProps = {
+  id: number;
   year: string;
   job_title: string;
   company_name: string;
