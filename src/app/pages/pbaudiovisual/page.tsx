@@ -1,5 +1,5 @@
 import React from "react";
-import WebsiteCard from "../components/WebsiteCard";
+import WebsiteCard from "../../components/WebsiteCard";
 
 export default function Pbaudiovisual() {
   return (

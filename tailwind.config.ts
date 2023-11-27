@@ -38,6 +38,7 @@ const config: Config = {
         //COLORS DEFINED BY PATO BOTTOS FOR THIS PORTFOLIO
         //BACKGROUND
         'royal': '#63365c',
+        'lime': '#376147',
 
         //HEADINGS
         'title-gray': '#e2e8f0',
