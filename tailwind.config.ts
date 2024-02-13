@@ -74,12 +74,19 @@ const config: Config = {
         opensans: ['Open Sans', 'sans-serif'],
         roboto: ['Roboto', 'sans-serif'],
       },
+      dropShadow: {
+        glow: [
+          "0 0px 10px rgba(255,255, 255, 0.3)",
+          "0 0px 28px rgba(255, 255,255, 0.18)"
+        ]
+      }
     },
     variants: {
       extend: {
         scale: ["group-hover"]
       },
     },
+
   }
   ,
   plugins: [],
