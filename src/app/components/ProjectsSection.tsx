@@ -2,6 +2,12 @@ import React from "react";
 import ProjectCard from "./ProjectCard";
 import SectionTitle from "./SectionTitle";
 import projects from "../data/projects.json";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Projects",
+  description: "Projects Section Of Pato Bottos Portfolio Website",
+};
 
 const ProjectsSection = () => {
   return (

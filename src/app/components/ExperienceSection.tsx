@@ -2,6 +2,12 @@ import React from "react";
 import ExperienceCard from "./ExperienceCard";
 import SectionTitle from "./SectionTitle";
 import experiences from "../data/experience.json";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Experience",
+  description: "Experience Section Of Pato Bottos Portfolio Website",
+};
 
 const ExperienceSection = () => {
   return (

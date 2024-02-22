@@ -1,5 +1,11 @@
 import React from "react";
 import SectionTitle from "./SectionTitle";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About",
+  description: "About Section Of Pato Bottos Portfolio Website",
+};
 
 const AboutSection = () => {
   return (
