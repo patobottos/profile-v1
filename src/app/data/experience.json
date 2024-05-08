@@ -1,7 +1,23 @@
 [
   {
+    "id": 4,
+    "year": "2024 - Present",
+    "job_title": "Front End Developer",
+    "company_name": "AdoptaUnJunior",
+    "company_url": "https://adoptaunjunior.es/",
+    "job_description": "Facilitated migration to Next.js, integrated TypeScript for enhanced code quality, employed Tailwind CSS for streamlined styling, supported user feedback analysis, and collaborated within a development team for seamless transitions and issue resolution.",
+    "job_techstack": [
+      "Next.js",
+      "React",
+      "Typescript",
+      "Tailwind",
+      "Figma",
+      "Git"
+    ]
+  },
+  {
     "id": 3,
-    "year": "2022 - Present",
+    "year": "2022 - 2023",
     "job_title": "Front End Developer",
     "company_name": "IT Academy",
     "company_url": "https://www.barcelonactiva.cat/en/itacademy-business",
