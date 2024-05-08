@@ -18,12 +18,12 @@ const AboutSection = () => {
       <div>
         <div className="text-white">
           Embarking on a digital journey over a decade ago, I&#39;ve crafted
-          engaging online experiences, refining my skills in ReactJS,
-          JavaScript, and web technologies. As a React Front End Developer at IT
-          Academy, I bring digital experiences to life, such as the timeless Nim
-          game. Before this role, spanning 10 years, I worked as a WordPress Web
-          Content Manager, contributing to diverse web projects, including
-          personal blogs, entrepreneurs&#39; websites, and non-profit platforms.
+          engaging online experiences, refining my skills in Next.js, ReactJS,
+          JavaScript, and web technologies. As a React Front End Developer at
+          AdoptaUnJunior, I bring digital experiences to life. Before this role,
+          spanning 10 years, I worked as a WordPress Web Content Manager,
+          contributing to diverse web projects, including personal blogs,
+          entrepreneurs&#39; websites, and non-profit platforms.
           <br />
           <br />
           Beyond coding, I co-directed an indie film festival, attracting 2000+
