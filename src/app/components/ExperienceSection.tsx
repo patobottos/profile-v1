@@ -26,7 +26,7 @@ const ExperienceSection = () => {
         <div className="flex font-opensans mt-3 text-lg font-semibold text-light-blue sm:text-xl tracking-wide rounded-2xl h-10 p-4 justify-center items-center max-w-max bg-gray-dark hover:text-title-gray hover:drop-shadow-glow">
           <a
             className=""
-            href="resume.pdf"
+            href="pato-bottos-resume.pdf"
             target="_blank"
             rel="noferrer"
             aria-label="IT Academy"
