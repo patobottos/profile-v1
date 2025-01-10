@@ -1,5 +1,23 @@
 [
   {
+    "id": 5,
+    "project_title": "Mastermind Game App",
+    "image_url": "/mastermind.png",
+    "project_url": "https://patobottos-mastermind.vercel.app/",
+    "company": "· Adopta Un Junior",
+    "description": "Mastermind Challenge is a dynamic React + TypeScript app powered by Firebase, offering a modern twist on the classic code-breaking game. Analyze patterns, crack the code, and climb the leaderboard in this fun, strategic experience!",
+    "techstack": [
+      "Figma",
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Vitest",
+      "Git",
+      "Visual Studio Code"
+    ]
+  },
+  {
     "id": 4,
     "project_title": "Wordle for Kids App",
     "image_url": "/wordle.png",
